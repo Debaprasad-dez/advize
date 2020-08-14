@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/advize/static/css/main.8cad900f.chunk.css",
+    "main.js": "/advize/static/js/main.fa5c8624.chunk.js",
+    "main.js.map": "/advize/static/js/main.fa5c8624.chunk.js.map",
+    "runtime-main.js": "/advize/static/js/runtime-main.177ad4e1.js",
+    "runtime-main.js.map": "/advize/static/js/runtime-main.177ad4e1.js.map",
+    "static/js/2.f105b0a3.chunk.js": "/advize/static/js/2.f105b0a3.chunk.js",
+    "static/js/2.f105b0a3.chunk.js.map": "/advize/static/js/2.f105b0a3.chunk.js.map",
+    "index.html": "/advize/index.html",
+    "precache-manifest.ad275d55a6d5195609954d0aa3dfa39e.js": "/advize/precache-manifest.ad275d55a6d5195609954d0aa3dfa39e.js",
+    "service-worker.js": "/advize/service-worker.js",
+    "static/css/main.8cad900f.chunk.css.map": "/advize/static/css/main.8cad900f.chunk.css.map",
+    "static/js/2.f105b0a3.chunk.js.LICENSE.txt": "/advize/static/js/2.f105b0a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.177ad4e1.js",
+    "static/js/2.f105b0a3.chunk.js",
+    "static/css/main.8cad900f.chunk.css",
+    "static/js/main.fa5c8624.chunk.js"
+  ]
+}
